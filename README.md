@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jerome25000
+- 👋 Hi, I’m jerome
 - 👀 I’m interested in java, python, groovy, javascript, angular, vue.js, node.js, docker
 - 🌱 I’m currently learning angular
 - 💞️ I’m looking to collaborate in many things
